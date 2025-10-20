@@ -71,4 +71,4 @@ src/
 - **Background**: #F9FAFB (Light gray)
 - **Text**: #111827 (Dark gray)
 
-## Made with ❤️ and Cursor
+
